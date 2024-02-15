@@ -7,6 +7,8 @@ that transforms lengthy articles into clear and concise summaries.😍💖
 
 https://github.com/SudhamaAnonymous/Ai_summarize-/blob/main/BBC%20-%20Homepage%20and%2032%20more%20pages%20-%20Profile%201%20-%20Microsoft_%20Edge%202024-02-15%2020-43-16.gif
 
+https://github.com/SudhamaAnonymous/Ai_summarize-/blob/main/BBC%20-%20Homepage%20and%2032%20more%20pages%20-%20Profile%201%20-%20Microsoft%E2%80%8B%20Edge%202024-02-15%2020-43-16.mp4
+
 
 
 ## Article Summarizer
