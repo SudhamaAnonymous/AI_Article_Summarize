@@ -5,8 +5,7 @@
 Simplify your reading with Summize, an open-source article summarizer </br>
 that transforms lengthy articles into clear and concise summaries.😍💖
 
-
-![Uploading BBC - Homepage and 32 more pages - Profile 1 - Microsoft_ Edge 2024-02-15 20-43-16.gif…]()
+https://github.com/SudhamaAnonymous/Ai_summarize-/blob/main/BBC%20-%20Homepage%20and%2032%20more%20pages%20-%20Profile%201%20-%20Microsoft_%20Edge%202024-02-15%2020-43-16.gif
 
 
 
