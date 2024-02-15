@@ -10,15 +10,15 @@ that transforms lengthy articles into clear and concise summaries.😍💖
 Simplify your reading with Summize, an open-source article summarizer </br>
 that transforms lengthy articles into clear and concise summaries.😍💖
 
-- [Live Preview](https://article-summarize.netlify.app/)
-- [![Visits Badge](https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi)](https://hackerwasii.com)
-- [![Netlify Status](https://api.netlify.com/api/v1/badges/3d574882-af2c-448b-a375-5fe4eddcf5d1/deploy-status)](https://app.netlify.com/sites/article-summarize/deploys)
+- [Live Preview](https://sensational-crumble-0f5dc0.netlify.app/)
 
-![Article Summarizer](https://i.ibb.co/3fRgMgg/Screenshot-2023-04-23-121003.png)
+
+
 
 ## Introduction
 An Article Summarizer Application using OpenAI's GPT model.
- 
+ ![Screenshot_15-2-2024_203645_sensational-crumble-0f5dc0 netlify app](https://github.com/SudhamaAnonymous/Ai_summarize-/assets/152418947/21ee6706-564b-457c-b74e-536b64296fbd)
+
 Alongside building this application, you'll also learn how to:
 - setup a ReactJS project using Vite
 - create a responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS
